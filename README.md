@@ -1,2 +1,2 @@
 # workersproject
-This for maintain bridge based
+This is for maintaining workers bridge based project
